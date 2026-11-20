@@ -10,7 +10,7 @@ python = "3.11.*"
 athena = { path = "../../../athena", develop = true }
 #athena = { git = "https://github.com/ls1intum/Athena.git", rev = "d9ff3bd", subdirectory = "athena"}
 llm_core = { path = "../../../llm_core", develop = true }
-nltk = "3.10.3"
+nltk = "3.10.4"
 tiktoken = "0.14.0"
 
 [tool.poetry.group.dev.dependencies]
