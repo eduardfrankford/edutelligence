@@ -16,7 +16,7 @@ langchain-community = "0.4.2" # this is required for the GitLoader import and sh
 gitpython = "3.1.59"
 tiktoken = "0.14.0"
 python-dotenv = "1.2.3"
-nltk = "3.10.3"
+nltk = "3.10.4"
 
 [tool.poetry.group.dev.dependencies]
 types-requests = "2.33.0.20260712"
